@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1360951348 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problem 3\finals_project\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1360951348 d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problem 3\finals_project\project.h
+
+1360952953 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problem 3\finals_project\project.cpp
+	<iostream>
+	<math.h>
+	"Project.h"
+
+1361001820 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\main.cpp
+	<iostream>
+	<cstdlib>
+	"Project.h"
+
+1361001820 d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\project.h
+
+1361002716 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\project.cpp
+	<iostream>
+	<math.h>
+	<istream>
+	<algorithm>
+	<fstream>
+	"Project.h"
+
