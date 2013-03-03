@@ -11,18 +11,22 @@
 	<math.h>
 	"Project.h"
 
-1361001820 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\main.cpp
+1362143793 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\main.cpp
 	<iostream>
 	<cstdlib>
 	"Project.h"
 
-1361001820 d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\project.h
+1362060677 d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\project.h
 
-1361002716 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\project.cpp
+1362227970 source:d:\mam nida files\program files\romzz programming\2ndyr-2ndsem\finals\problems 1-10\finals_project\project.cpp
 	<iostream>
 	<math.h>
 	<istream>
 	<algorithm>
+	<vector>
+	<sstream>
+	<string>
 	<fstream>
+	<time.h>
 	"Project.h"
 

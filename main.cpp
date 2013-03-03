@@ -4,9 +4,11 @@
 
 using namespace std;
 
-const string Problem[]= {"Multiples of 3 and 5","Even Fibonacci Numbers","Largest Prime Factor of 600851475143","Largest Palindrome Product","The Smallest Positive Number Evenly Divisible by 1-20","Sum Square Difference","The 10001st Prime Number","Largest Product in 5 Consecutive digits","The Pythagorean Triplet","Summation of All Primes below 2M","Exit"};
+const string Problem[]= {"Multiples of 3 and 5","Even Fibonacci Numbers","Largest Prime Factor of 600851475143","Largest Palindrome Product","The Smallest Positive Number Evenly Divisible by 1-20","Sum Square Difference","The 10001st Prime Number",
+"Largest Product in 5 Consecutive digits","The Pythagorean Triplet","Summation of All Primes below 2M","Largest Product in a Grid","Highly Divisible Triangular Number","Largest Sum","Longest Collatz Sequence","Diophantine Reciprocals A",
+"Power Digit Sum","Number Letter Counts","Maximum Path Sum I","Counting Sundays","Factorial Digit Sum","Name Scores","Exit"};
 
-const int NUM_PROBLEMS=10;           //babaguhin mo value nito pre! para magkasya lahat ng case sa sampu! gawin mung ten!
+const int NUM_PROBLEMS=21;           //babaguhin mo value nito pre! para magkasya lahat ng case sa desired number!!
 const int EXIT=NUM_PROBLEMS+1;
 
 int main()
@@ -65,6 +67,50 @@ int main()
 
         case 10:
             proj.summation_of_primes();
+            break;
+
+        case 11:
+            proj.largest_product_grid();
+            break;
+
+        case 12:
+            proj.divisible_triangular_number();     //Mabagal mag process ang problem na ito, antay lang konti..
+            break;
+
+        case 13:
+            proj.largest_sum();
+            break;
+
+        case 14:
+            proj.longest_collatz_sequence();
+            break;
+
+        case 15:
+            proj.diophantine_reciprocals_a();
+            break;
+
+        case 16:
+            proj.power_digit_sum();
+            break;
+
+        case 17:
+            proj.number_letter_counts();
+            break;
+
+        case 18:
+            proj.max_path_sum_one();
+            break;
+
+        case 19:
+            proj.counting_sundays();
+            break;
+
+        case 20:
+            proj.factorial_digit_sum();
+            break;
+
+        case 21:
+            proj.name_scores();
             break;
 
         case EXIT:
